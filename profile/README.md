@@ -3,6 +3,9 @@
 
 ![Logo](images/IMG_0899.PNG)
 
+## HIGHLEVEL ARCHITECTURE DIAGRAM
+![HLAD](images/HLAD.png)
+
 
 
 ## 1. Backend system Component 
@@ -20,4 +23,3 @@
 - Cross border payment:
     - Path Payments: Allows us to implement our "*spend in any country using your local currency*"
         - We would implement path payment strict Receive for this feature, because the goal is pay in any currency while trader, merchants get the real value for their goods or services
-        
