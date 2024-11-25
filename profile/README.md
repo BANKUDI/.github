@@ -22,6 +22,7 @@
     - We have multiple isolated environments on AWS which helps us host our backend services.
     - services: Elastic Beanstalk, EC2, Elastic Cache, AWS Code pipeline, Amazon MSK. e.t.c
     - Horizon: Host the Horizon docker images on EKS
+    - Dedicated private cloud: Tunnel my dedicated local-running cpu to the internet using NGROK. This is a backup server which is used for testing pre-prod env and also a fallback env during system upgrade. 
 
 ## 2. Integration with Stellar
 - Utilizing Stellar network, we offer user a blockchain wallet for supported assets starting with XLM and USDC
