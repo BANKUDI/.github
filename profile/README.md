@@ -7,7 +7,7 @@
 ![HLAD](images/HLAD.png)
 
 #### Pay globally with local currency flow
-![FLOW](images/FLOW.png)
+![FLOW](images/flow.png)
 
 
 ## 1. Backend system Component 
