@@ -6,6 +6,8 @@
 #### HIGHLEVEL ARCHITECTURE DIAGRAM
 ![HLAD](images/HLAD.png)
 
+#### Pay globally with local currency flow
+![FLOW](images/FLOW.png)
 
 
 ## 1. Backend system Component 
