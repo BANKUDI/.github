@@ -62,4 +62,20 @@
 - Enhancing our scan-to-pay and NFC feature
     - We currently operate in the local space in Nigeria. we started payrit with the initial goal of bridging the gap between the banked and the unbanked. This feature has been in our users' hand and it has allowed them to pay in rural settings where user need to sort for cash to pay the traders. With stellar integration we can now enhance this feature to allow user still use the scan-to-pay feature but debiting their crypto or alternate wallets
 
-- 
+## 3. Compliance and Security
+- As at today Payrit has one of this srictest and fastest hybrid KYC verification process. we combined but automatical KYC verification by leveraging one of africa's leading KYC verification service. We have an internal dashboard to manually approve the KYC and move user to the next KYC level. 
+We are doing this because we understand we operate in a delicate and vulnerable industry prone to fraud and Money laundry, Hence our hybrid approach in order to give the human touch in verifying users.
+We have built an internal system that notifies the payrit's admins when there is a new kYC verification request.
+
+- We partnered with banking services that are licensed and are a member of the [NDIC](https://ndic.gov.ng/) to secure our user's funds.
+
+- We have plan to bring onboard cyber security expert to helps improve the security of all our services
+
+
+-----------
+
+
+
+---------
+
+### *We are dedicated to empowering Africans by providing them with the opportunity to seamlessly participate in the global financial ecosystem.*
