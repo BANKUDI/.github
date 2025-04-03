@@ -9,6 +9,8 @@
 #### Pay globally with local currency flow
 ![FLOW](images/flow.png)
 
+#### Pay globally with local currency flow on stellar blockchain
+![FLOW ON EXCALIDRAW](images/flow.png)
 
 ## 1. Backend system Component 
 - **Client Application** : Mobile (IOS, ANDROID) and Rest API for integration with other products we provide services to. 
